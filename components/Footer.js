@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
-    <div>
+    <footer>
       <p>Made with love 2022</p>
-    </div>
+    </footer>
   );
 }
  
